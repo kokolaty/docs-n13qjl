@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dyyy6s.cingbet138.site/sitemap.xml
